@@ -32,6 +32,7 @@ module.exports = {
 		'settings-personal-security': path.join(__dirname, 'src', 'main-personal-security'),
 		'settings-personal-webauthn': path.join(__dirname, 'src', 'main-personal-webauth'),
 		'settings-nextcloud-pdf': path.join(__dirname, 'src', 'main-nextcloud-pdf'),
+		'settings-personal-info': path.join(__dirname, 'src', 'main-personal-info'),
 	},
 	output: {
 		path: path.resolve(__dirname, './js'),

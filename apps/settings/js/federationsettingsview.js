@@ -36,7 +36,7 @@
 			this._inputFields = [
 				'displayname',
 				'phone',
-				'email',
+				// 'email',
 				'website',
 				'twitter',
 				'address',
